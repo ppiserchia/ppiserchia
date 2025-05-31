@@ -1,7 +1,7 @@
 ## About me 👨🏻‍💻
 
 👋 I'm Pasquale, an iOS developer based in Battipaglia, a city near Salerno, Italy 🇮🇹   
-🧑🏻‍🎓 Recently graduated in Linguistic and Cultural Mediation, at Università degli Studi di Napoli "L'Orientale".  
+🧑🏻‍🎓 Recently graduated in Linguistic and Cultural Mediation, at Università degli Studi di Napoli "L'Orientale"  
 📚 Currently studying at the Apple Developer Academy at Università degli Studi di Napoli "Federico II"  
 🔎 I define myself as a curious person, always seeking for new experiences  
 ⭐️ Always been a learning lover and passionate about self-improvement  
