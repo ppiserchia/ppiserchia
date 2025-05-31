@@ -1,4 +1,12 @@
-## Hi there 👋
+## Who I am 👨🏻‍💻
+
+I'm Pasquale, an iOS developer with roots in linguistics and foreign languages.  
+🧑🏻‍🎓 I recently graduated in Linguistic and Cultural Mediation, at University of Naples "L'Orientale".  
+I define myself as a curious person, enjoying new experiences
+
+<!--
+<a href="mailto:piserchia.pasquale@outlook.it" target="blank"><img align="center" src="Icons/gmail.svg" height="30" /></a>
+
 
 <!--
 **ppiserchia/ppiserchia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
