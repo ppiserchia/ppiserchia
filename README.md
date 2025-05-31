@@ -8,6 +8,8 @@
 🌍 Polyglot (🇮🇹🇫🇷🇪🇸🇩🇪🇷🇺), travel and music addicted ✈️🎶
 
 ## 🌐 Socials:
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/pasquale-piserchia-8748a7264/) [![Outlook](https://img.shields.io/badge/Email-Outlook-blue?logo=microsoft-outlook&logoColor=white)](mailto:piserchia.pasquale@outlook.it)
+
 
 
 
