@@ -15,11 +15,8 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
 ## 🔢 Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ppiserchia&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-
 ![GitHub Stats](https://streak-stats.demolab.com?user=ppiserchia&theme=tokyonight&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ppiserchia&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 
 
